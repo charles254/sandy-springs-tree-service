@@ -1,0 +1,26 @@
+{
+  "nodeCode": "TCSR-SANDYSPRINGH-TREECUTTIN-T1-P00-N01-LOCAL",
+  "slug": "tcsr-sandyspringh-treecuttin-t1-p00-n01-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "Tree Cutting Service & Tree Removal in Roswell GA — Property Owner Guide",
+  "canonical": "https://charles254.github.io/sandy-springs-tree-service/tcsr-sandyspringh-treecuttin-t1-p00-n01-local/",
+  "primaryEntity": "Tree Cutting Service Sandy Springs GA",
+  "outgoingLinks": [
+    {
+      "url": "https://treecuttingserviceroswellga.net/service-areas/sandy-springs",
+      "anchor": "Sandy Springs tree service",
+      "rel": "follow",
+      "relationship": "destination"
+    }
+  ],
+  "sources": [
+    "https://treecuttingserviceroswellga.net/service-areas/sandy-springs",
+    "https://treecuttingserviceroswellga.net/services/tree-removal",
+    "https://treecuttingserviceroswellga.net/services/emergency-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/tree-trimming",
+    "https://treecuttingserviceroswellga.net/services/stump-grinding",
+    "https://treecuttingserviceroswellga.net/services/crane-tree-removal",
+    "https://treecuttingserviceroswellga.net/"
+  ]
+}
