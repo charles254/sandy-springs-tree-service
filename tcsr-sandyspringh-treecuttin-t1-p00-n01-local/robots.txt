@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charles254.github.io/sandy-springs-tree-service/tcsr-sandyspringh-treecuttin-t1-p00-n01-local/sitemap.xml
